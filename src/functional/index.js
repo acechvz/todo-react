@@ -1,0 +1,1 @@
+export const obj_count = (obj) => Object.keys(obj).length > 0;
